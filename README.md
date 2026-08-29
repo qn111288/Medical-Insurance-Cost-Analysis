@@ -84,15 +84,6 @@ pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, XGBoost, LightGBM, CatB
 - SHAP did not run to completion in the last execution and fell back to default feature importance
 - Notebook and PDF report currently reference different datasets and results — needs reconciliation
 
-## Team — Group 13
-
-| Name | Student ID | Email |
-|---|---|---|
-| Vu Duc Tien | 23BI14422 | tienvd.23bi14422@usth.edu.vn |
-| Nguyen Quoc Viet | 23BI14451 | vietnq.23bi14451@usth.edu.vn |
-| Nguyen Bich Thu | 23BI14462 | thunb.22bi13418@usth.edu.vn |
-| Nguyen Thi Nhu Quynh | 22BA13270 | quynhntn.22BA13270@usth.edu.vn |
-
 ## References
 
 - Chen & Guestrin, *XGBoost: A Scalable Tree Boosting System*, KDD 2016
